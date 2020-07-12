@@ -11,12 +11,16 @@ list-style: none;
 }
 
 
+
 body{
 background: url(../img/hojas.jpg);
 background-attachment: fixed;
 
 }
 
+#contacto{
+  float: none;
+}
 #global{
   width: 65%;
   margin: 0px auto;
